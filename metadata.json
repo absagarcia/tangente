@@ -1,0 +1,5 @@
+{
+  "name": "Tangente: Linear vs Lateral",
+  "description": "An AI-powered exploration tool that visualizes the difference between staying focused (Linear) and going off on a tangent (Lateral). It uses Gemini 2.5 Flash to generate logical progressions versus creative divergences.",
+  "requestFramePermissions": []
+}
